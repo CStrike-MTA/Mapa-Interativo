@@ -7,3 +7,13 @@ body,
     padding: 0;
     background-color: #171717
 }
+
+.div-dos-botao {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+
+.botoes-dessa-bomba {
+    margin: 0.5rem;
+}
